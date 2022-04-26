@@ -1,3 +1,11 @@
+// Design and implement Binary search algorithm using Divide and 
+// Conquer method for a given input. Determine the time required to search an element. 
+// Determine the time required to search an element for large values of n. 
+// Compare the time taken by Binary Search with the time taken by linear search. 
+// Modify the binary search by dividing it using a random number in the appropriate range. 
+// Show how this Modified algorithm compares with the original algorithm in terms of Performance.
+
+
 #include<iostream>
 #include <bits/stdc++.h>
 #include <algorithm>
