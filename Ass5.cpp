@@ -1,4 +1,4 @@
-// Prim's Algorithm
+// Design & Implement Prims Algorithm using Greedy Approach. Calculate the time complexity of the algorithm.
 #include <cstring> //Header files
 #include <iostream>
 using namespace std;
