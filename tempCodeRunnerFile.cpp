@@ -1,7 +1,3 @@
-//Design & Implement Prims Algorithm using Greedy Approach. Calculate the time complexity of the algorithm.
-
-
-
 #include <iostream>
 #include <bits/stdc++.h>
 #include <algorithm>
